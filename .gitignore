@@ -1,0 +1,4 @@
+.venv/
+images/
+src/__pycache__/
+train_images/
